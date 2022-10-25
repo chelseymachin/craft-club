@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-craftclub-dev-101213-authRole",
+      "UnauthRoleArn": "arn:aws:iam::383287891767:role/amplify-craftclub-dev-101213-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::383287891767:role/amplify-craftclub-dev-101213-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-craftclub-dev-101213-deployment",
+      "UnauthRoleName": "amplify-craftclub-dev-101213-unauthRole",
+      "StackName": "amplify-craftclub-dev-101213",
+      "StackId": "arn:aws:cloudformation:us-west-1:383287891767:stack/amplify-craftclub-dev-101213/2c976c40-5488-11ed-977c-06a17af4d217",
+      "AmplifyAppId": "d3c7a51296e1cc"
+    },
+    "categories": {
+      "auth": {
+        "craftclubf7974be0": {}
+      },
+      "api": {
+        "craftclub": {}
+      },
+      "storage": {
+        "s3abb1c193": {}
+      }
+    }
+  }
+}

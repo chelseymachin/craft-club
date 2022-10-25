@@ -1,0 +1,13 @@
+{
+  "resourceName": "s3abb1c193",
+  "policyUUID": "abb1c193",
+  "bucketName": "craftclub7b68c879febd40f38826ab75687648c3",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
