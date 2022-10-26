@@ -4,7 +4,6 @@
 <template>
   <authenticator
       :login-mechanisms="['email']"
-      :social-providers="['google', 'facebook', 'apple']"
   >
     <template v-slot="{ user, signOut }">
       <h1>Hello {{ user.username }}!</h1>
